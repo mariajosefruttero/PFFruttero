@@ -1,0 +1,23 @@
+
+.card {
+  background-color: $color-gris;
+  margin-bottom: 15px;
+  margin-right: 30px;
+  margin-top: 15px;
+  margin-left: 30px;
+}
+
+.card-text {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 15px;
+}
+
+.card-group .card:hover {
+  transform: scale(1.1);
+  transition: 1s;
+}
+
+.card-title {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+}

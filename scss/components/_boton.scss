@@ -1,0 +1,23 @@
+.button2 {
+    display: inline-block;
+    transition: all 0.2s ease-in;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    color: #090909;
+    padding: 0.7em 1.7em;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 0.5em;
+    background: linear-gradient(145deg, #e8e8e8, #ffffff);
+    border: 1px solid #e8e8e8;
+    box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+  
+    &:hover {
+      color: #ffffff;
+      background: linear-gradient(145deg, #009087, #007770);
+      border: 1px solid #009087;
+    }
+  }
+  
+   
