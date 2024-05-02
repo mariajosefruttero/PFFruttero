@@ -1,3 +1,7 @@
+//base
+@import "base/utilities";
+@import "base/vars";
+
 //components
 @import "components/boton";
 @import "components/footer";
@@ -10,4 +14,3 @@
 @import "layouts/servicios";
 @import "layouts/index";
 @import "layouts/responsive";
-@import "layouts/reset";
